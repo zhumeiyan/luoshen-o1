@@ -1,0 +1,15 @@
+{
+ "c1": true,
+ "c2": true,
+ "c3": true,
+ "c4": true,
+ "c5": true,
+ "c6": true,
+ "c7": true,
+ "summary": {
+  "eta2_d23": 0.013225,
+  "prob_sup_d23": 0.564596912719748,
+  "kappa_star": 1.5418359374999997,
+  "a_star": 0.625
+ }
+}
