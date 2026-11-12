@@ -1,0 +1,56 @@
+{
+  "blind": {
+    "f0_base": 118.0,
+    "f0_variation": 0.03,
+    "tone_depth": 0.72,
+    "pause_rate": 0.52,
+    "pause_len": 0.36,
+    "f0_decl": 0.34,
+    "voiced_target": 0.4,
+    "jitter": 0.1
+  },
+  "learned": {
+    "f0_base": 144.67926989994982,
+    "f0_variation": 0.03,
+    "tone_depth": 0.6417440133856421,
+    "pause_rate": 0.4941960524032811,
+    "pause_len": 0.05,
+    "f0_decl": 0.03184939126340355,
+    "voiced_target": 0.45714661061499084,
+    "jitter": 0.12
+  },
+  "default": {
+    "f0_base": 182.0,
+    "f0_variation": 0.31,
+    "f0_decl": 0.1,
+    "tone_depth": 0.3,
+    "pause_rate": 0.25,
+    "pause_len": 0.13,
+    "voiced_target": 0.79,
+    "jitter": 0.02
+  },
+  "fair_blind": 1.252253043714704,
+  "fair_default": 0.2721417732872354,
+  "fair_learned": 0.4605704289326267,
+  "se": [
+    0.026753734560733308,
+    0.013295029014402854,
+    0.028615410510491192
+  ],
+  "heldout_blind": 1.2587851393745981,
+  "heldout_learned": 0.43200980066228734,
+  "real_targets_train": {
+    "voiced": 0.7789317507418397,
+    "f0_med": 181.8181818181818,
+    "f0_std": 0.31681576841016484,
+    "sil": 0.3341584158415842,
+    "pause_med": 0.136
+  },
+  "real_targets_test": {
+    "voiced": 0.8118002686968204,
+    "f0_med": 181.8181818181818,
+    "f0_std": 0.324078633360825,
+    "sil": 0.3265022449105111,
+    "pause_med": 0.128
+  }
+}
