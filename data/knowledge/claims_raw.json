@@ -1,0 +1,1856 @@
+[
+ {
+  "truth": 85.0,
+  "doc": "2610.13054.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "up- dates on 10 s clips, comprising NSynth instruments [11] rendered with Lakh MIDI [26] (85%) and Slakh2100 stems [27] (15%). We "
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.13054.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "sing NSynth instruments [11] rendered with Lakh MIDI [26] (85%) and Slakh2100 stems [27] (15%). We upsample the original 16 kHz NS"
+ },
+ {
+  "truth": 95.0,
+  "doc": "2610.13054.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "milarities are computed over 2 s sliding windows with a 1 s hop; curves show the mean and 95% CI across 64 instrument pairs. Text-"
+ },
+ {
+  "truth": 49.0,
+  "doc": "2610.14232.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " the 48 classes with at least ten held-out events, the sensitive profile finds on average 49 % of a class’s events (67 % of all 9,"
+ },
+ {
+  "truth": 67.0,
+  "doc": "2610.14232.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ast ten held-out events, the sensitive profile finds on average 49 % of a class’s events (67 % of all 9,367 events) at a macro pre"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " non-verbal event per clip with a detected region; event crops, speech beds, real windows 10 % by stable hash (3,828 clips) CC BY-"
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.14232.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " 727 clips, 410 speakers, 16 classes isolated phone-recorded vocalizations; trimmed crops 15 % of speakers CC BY-NC-ND 4.0 DNC [40"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ise type; ambient crops (TV/ra- dio, music, cars, appliances) and a background-noise pool 10 % of sessions MIT DEMAND [34] 18 envi"
+ },
+ {
+  "truth": 20.0,
+  "doc": "2610.14232.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ironment; channels 1 and 9; am- bient crops (transport, washing room) and noise pool last 20 % of each recording CC BY 4.0 (record"
+ },
+ {
+  "truth": 74.0,
+  "doc": "2610.14232.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "peech beds. Clips longer than 30 s are not aligned. Of the 8,620 annotated sounds, 6,360 (74 %) were located: 4,546 breaths, 879 l"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "K validation beds), and the unlabelled background-noise pool is not split. NVS-38K uses a 10 % split by a CRC-32 hash of the clip’"
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.14232.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "et-Strong use their official development/test and evaluation splits, OpenSLR 99 holds out 15 % of speakers, DNC 10 % of recording "
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ficial development/test and evaluation splits, OpenSLR 99 holds out 15 % of speakers, DNC 10 % of recording sessions, and DEMAND t"
+ },
+ {
+  "truth": 20.0,
+  "doc": "2610.14232.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "penSLR 99 holds out 15 % of speakers, DNC 10 % of recording sessions, and DEMAND the last 20 % of each labelled recording. 5 "
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "60 evaluation row groups of 72 clips each are read, and only the chosen clips are stored, 10 % of them without any target event. E"
+ },
+ {
+  "truth": 82.0,
+  "doc": "2610.14232.pdf",
+  "page": 7,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "has 5,802,790 trainable parameters (27 MB as safetensors). Figure 4 shows where they are: 82 % in the six encoder layers (789,760 "
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.14232.pdf",
+  "page": 7,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "8 in self-attention, 525,568 in the feed-forward block and 1,024 in the two layer norms), 15 % in the convolutions, 3 % in the pro"
+ },
+ {
+  "truth": 3.0,
+  "doc": "2610.14232.pdf",
+  "page": 7,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "68 in the feed-forward block and 1,024 in the two layer norms), 15 % in the convolutions, 3 % in the projection and under 1 % in t"
+ },
+ {
+  "truth": 1.0,
+  "doc": "2610.14232.pdf",
+  "page": 7,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " 1,024 in the two layer norms), 15 % in the convolutions, 3 % in the projection and under 1 % in the output layer. The design is d"
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.14232.pdf",
+  "page": 8,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ad 21k 42k 125k 166k 499k 197k 790k 790k 790k 790k 790k 790k 14k convolutional front end (15%) projection (3%) Transformer encoder"
+ },
+ {
+  "truth": 3.0,
+  "doc": "2610.14232.pdf",
+  "page": 8,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "66k 499k 197k 790k 790k 790k 790k 790k 790k 14k convolutional front end (15%) projection (3%) Transformer encoder (82%) output hea"
+ },
+ {
+  "truth": 82.0,
+  "doc": "2610.14232.pdf",
+  "page": 8,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "90k 790k 790k 790k 14k convolutional front end (15%) projection (3%) Transformer encoder (82%) output head (<1%) Figure 4: Paramet"
+ },
+ {
+  "truth": 1.0,
+  "doc": "2610.14232.pdf",
+  "page": 8,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "14k convolutional front end (15%) projection (3%) Transformer encoder (82%) output head (<1%) Figure 4: Parameters per layer, colo"
+ },
+ {
+  "truth": 40.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "augmented version (Table 4). Inserted silences shift later labels. Background noise comes 40 % of the time from the real noise poo"
+ },
+ {
+  "truth": 40.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " Hz (order 4 per edge); 8-bit µ-law with probability 0.5 background noise 0.85 real noise 40 % (SNR 3–25 dB), babble 20 % (12–30 d"
+ },
+ {
+  "truth": 20.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "it µ-law with probability 0.5 background noise 0.85 real noise 40 % (SNR 3–25 dB), babble 20 % (12–30 dB), hum 10 % (10–35 dB), wh"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lity 0.5 background noise 0.85 real noise 40 % (SNR 3–25 dB), babble 20 % (12–30 dB), hum 10 % (10–35 dB), white/pink/brown 30 % ("
+ },
+ {
+  "truth": 30.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "l noise 40 % (SNR 3–25 dB), babble 20 % (12–30 dB), hum 10 % (10–35 dB), white/pink/brown 30 % (8–35 dB) gain 1 −12 to +6 dB Pools"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "W [20] (weight decay 0.01), a OneCycle schedule [33] with peak learning rate 3 × 10−4 and 10 % warm-up, batch size 32, mixed preci"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.14232.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "timizer AdamW, weight decay 0.01, gradient-norm clip 5 Schedule OneCycle, peak LR 0.0003, 10 % warm-up, 10 epochs Batch 32 windows"
+ },
+ {
+  "truth": 67.0,
+  "doc": "2610.14232.pdf",
+  "page": 14,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rofile reaches a macro recall of 0.491 at a macro precision of 0.302 (F1 0.322) and finds 67 % of all events; the balanced profile"
+ },
+ {
+  "truth": 15.0,
+  "doc": "2610.19492.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "d on a massive bilingual corpus, including an 80GB filtered subset of CC100 [25], using a 15% span-corruption objective for both E"
+ },
+ {
+  "truth": 14.21,
+  "doc": "2610.19492.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rror rate (WER) of this ASR output relative to the reference transcripts (spoken text) is 14.21%. This error rate reflects typical"
+ },
+ {
+  "truth": 95.0,
+  "doc": "2610.19492.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "bility of our results, we employ a bootstrap method with 10,000 iterations to deter- mine 95% confidence intervals (CIs) for the m"
+ },
+ {
+  "truth": 95.0,
+  "doc": "2610.19492.pdf",
+  "page": 4,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "the original test set and the interval [LB, UB] denotes the lower and upper bounds of the 95% confidence interval. 4. Results and "
+ },
+ {
+  "truth": 3.63,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "tagging loss (B2) further improves results, establish- ing a strong baseline with WERs of 3.63% and 0.52%. Although AdapITN [2] is"
+ },
+ {
+  "truth": 40.08,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lize in the “With PnC” evaluation, yielding an I-WER of 156.88% and a high overall WER of 40.08%. Even in the “Without PnC” settin"
+ },
+ {
+  "truth": 1.45,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "in the “Without PnC” setting, which is consistent with its original evaluation, AdapITN’s 1.45% WER is 2.79[2.61,3.30]× higher tha"
+ },
+ {
+  "truth": 4.18,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " of 18.94[10.92,27.84]% and 52.60[29.30,67.08]%. Our proposed S2 variant achieves WERs of 4.18% and 0.64%, sig- nificantly outperf"
+ },
+ {
+  "truth": 28.39,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "- line H2 [12] by 1.98[1.94,2.01]× and 6.56[5.74,7.40]×. The high I-WERs observed for H2 (28.39% and 47.36%) highlight the limitat"
+ },
+ {
+  "truth": 47.36,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "12] by 1.98[1.94,2.01]× and 6.56[5.74,7.40]×. The high I-WERs observed for H2 (28.39% and 47.36%) highlight the limitations of man"
+ },
+ {
+  "truth": 97.19,
+  "doc": "2610.19492.pdf",
+  "page": 5,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "resolve global dependencies. In terms of tagging accuracy, S2 achieves a high F1 score of 97.19%, comparable to the B2 baseline, d"
+ },
+ {
+  "truth": 31.82,
+  "doc": "2610.19492.pdf",
+  "page": 6,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "]% and 0.05[−0.03,0.11]% across settings. However, DC improves total per-chunk latency by 31.82% rel- ative to EC at c = 5. We als"
+ },
+ {
+  "truth": 100.0,
+  "doc": "2610.19492.pdf",
+  "page": 7,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "streaming scenario, augmentation is essential. With- out it (ptrunc = 0), the WER exceeds 100% as the model fails to predict the l"
+ },
+ {
+  "truth": 39.0,
+  "doc": "2610.22499.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "l sys- tems. JAVIS starts responding within 1.27 s, 5.3× faster than FAC + FLOAT, and has 39% lower initial latency than even FLOA"
+ },
+ {
+  "truth": 95.0,
+  "doc": "2610.22499.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ness, and facial expression appropriateness. The mean scores are reported in Table 4 with 95% confidence intervals. As shown, JAVI"
+ },
+ {
+  "truth": 95.0,
+  "doc": "2610.22499.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "se speech or text. Table 4. Subjective evaluation results. The results are presented with 95% confidence intervals. Method AV Moti"
+ },
+ {
+  "truth": 1.21,
+  "doc": "2610.22499.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "also degrades lip synchronization (LSE-C 6.71, LSE-D 8.72) as well as speech quality (WER 1.21%, UTMOS 4.03). We attribute the lip"
+ },
+ {
+  "truth": 13.91,
+  "doc": "2610.22499.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "- mance across all metrics, with particularly severe drops in speech intelligibility (WER 13.91%) and lip synchronization (LSE-C 6"
+ },
+ {
+  "truth": 92.2,
+  "doc": "2610.25942.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "s, the ground-truth NVV label falls within the top-10 predictions with a proba- bility of 92.2%, with more than half ranking withi"
+ },
+ {
+  "truth": 88.6,
+  "doc": "2610.25942.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "tions alongside negatively sampled random in- sertions demonstrate that the model accepts 88.6% of genuine dialogues while rejecti"
+ },
+ {
+  "truth": 91.3,
+  "doc": "2610.25942.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "n- sertions demonstrate that the model accepts 88.6% of genuine dialogues while rejecting 91.3% of unnatural insertions. "
+ },
+ {
+  "truth": 85.0,
+  "doc": "2610.25942.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "e the ability to generate NVV events that conform to conversational norms, with more than 85% of complete responses containing onl"
+ },
+ {
+  "truth": 92.5,
+  "doc": "2610.25942.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "pathy-oriented interactions. For VocalNet, token-level NVV appropriateness increases from 92.5% to 96.8%, while both models achiev"
+ },
+ {
+  "truth": 96.8,
+  "doc": "2610.25942.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ented interactions. For VocalNet, token-level NVV appropriateness increases from 92.5% to 96.8%, while both models achieve respons"
+ },
+ {
+  "truth": 90.0,
+  "doc": "2610.25942.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "eases from 92.5% to 96.8%, while both models achieve response-level appropriateness above 90% on this dataset. Across the four set"
+ },
+ {
+  "truth": 2.0,
+  "doc": "2610.25942.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "nguistic pronunciation, both models maintain strong performance, with CER remaining below 2%. In the calculation, we exclude text "
+ },
+ {
+  "truth": 43.9,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "econstructed audio. On 25-minute remote conversations, routing cuts wrong-track time from 43.9% to 4.1%, below the 6.2% of matched"
+ },
+ {
+  "truth": 4.1,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ted audio. On 25-minute remote conversations, routing cuts wrong-track time from 43.9% to 4.1%, below the 6.2% of matched-enrollme"
+ },
+ {
+  "truth": 6.2,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "-minute remote conversations, routing cuts wrong-track time from 43.9% to 4.1%, below the 6.2% of matched-enrollment waveform re-i"
+ },
+ {
+  "truth": 17.8,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "orm re-identification, with its largest advantage when one par- ticipant holds the floor (17.8% versus 28.6%), and raises fixed-tr"
+ },
+ {
+  "truth": 28.6,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "fication, with its largest advantage when one par- ticipant holds the floor (17.8% versus 28.6%), and raises fixed-track activity "
+ },
+ {
+  "truth": 1.7,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "one recordings, and a margin-gated verification step brings their wrong-track time to 0.9–1.7% while embedding 20–36% of the outpu"
+ },
+ {
+  "truth": 36.0,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rgin-gated verification step brings their wrong-track time to 0.9–1.7% while embedding 20–36% of the output, where full re-identif"
+ },
+ {
+  "truth": 44.9,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "partner’s channel. On 25-minute conversations, the released overlap-stitching rule leaves 44.9% of speech on the wrong track, no b"
+ },
+ {
+  "truth": 52.2,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "one person holds the floor while the other listens. Such activity-asymmetric chunks carry 52.2% of speech-bearing duration on CAND"
+ },
+ {
+  "truth": 43.9,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "sistent participant control with a frozen generator, cutting CANDOR wrong-track time from 43.9% to 4.1% with 1.84 M parameters and"
+ },
+ {
+  "truth": 4.1,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "articipant control with a frozen generator, cutting CANDOR wrong-track time from 43.9% to 4.1% with 1.84 M parameters and 2.8% add"
+ },
+ {
+  "truth": 2.8,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " generator, cutting CANDOR wrong-track time from 43.9% to 4.1% with 1.84 M parameters and 2.8% added runtime; (ii) activity- strat"
+ },
+ {
+  "truth": 17.8,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " locates the advantage over matched-enrollment re-identification in floor-holding speech (17.8% versus 28.6%); and (iii) a routing"
+ },
+ {
+  "truth": 28.6,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "advantage over matched-enrollment re-identification in floor-holding speech (17.8% versus 28.6%); and (iii) a routing margin that "
+ },
+ {
+  "truth": 36.0,
+  "doc": "2610.27109.pdf",
+  "page": 0,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "g speech (17.8% versus 28.6%); and (iii) a routing margin that directs verification to 20–36% of the output, together with interve"
+ },
+ {
+  "truth": 2.8,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "weights and input normalization. The router contains 1.84 M trainable parameters and adds 2.8% to the median end-to-end real-time "
+ },
+ {
+  "truth": 8.0,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "[29]. Seamless keeps dyads of at least 1.5 min with both participants voiced for at least 8% of the recording, minus one near-dupl"
+ },
+ {
+  "truth": 43.86,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "n their participants Table 1a establishes the main result: routing reduces CANDOR WT from 43.86% to 4.08%, a 90.7% relative reduct"
+ },
+ {
+  "truth": 4.08,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rticipants Table 1a establishes the main result: routing reduces CANDOR WT from 43.86% to 4.08%, a 90.7% relative reduction. Under"
+ },
+ {
+  "truth": 90.7,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "s Table 1a establishes the main result: routing reduces CANDOR WT from 43.86% to 4.08%, a 90.7% relative reduction. Under the same"
+ },
+ {
+  "truth": 34.2,
+  "doc": "2610.27109.pdf",
+  "page": 1,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "%, a 90.7% relative reduction. Under the same enrollment information, it reduces error by 34.2% relative to waveform re-identifica"
+ },
+ {
+  "truth": 100.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "44.89 21.23 18.35 12.82 Pre-diffusion routing 4.08 1.89 4.17 2.32 Enrolled waveform re-ID 100% 6.20 4.72 2.15 0.57 Routing + verif"
+ },
+ {
+  "truth": 36.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "1.89 4.17 2.32 Enrolled waveform re-ID 100% 6.20 4.72 2.15 0.57 Routing + verification 20–36% — — 1.74 0.87 (b) Reconstruction ver"
+ },
+ {
+  "truth": 36.1,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "1,517 / 1,515. Verification, applied to the unseen corpora, uses 𝜃= .30 and embeds 20.0 / 36.1% of chunks. With a fixed router, th"
+ },
+ {
+  "truth": 47.8,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "fusion seeds give CANDOR 30 s WT 3.99 ± 0.48% (mean ± s.d.); entries use seed 0. Balanced 47.8% Mild 30.0% Strong 10.0% Floor-hold"
+ },
+ {
+  "truth": 30.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "s give CANDOR 30 s WT 3.99 ± 0.48% (mean ± s.d.); entries use seed 0. Balanced 47.8% Mild 30.0% Strong 10.0% Floor-hold 12.2% 0 10"
+ },
+ {
+  "truth": 10.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " 30 s WT 3.99 ± 0.48% (mean ± s.d.); entries use seed 0. Balanced 47.8% Mild 30.0% Strong 10.0% Floor-hold 12.2% 0 10 20 30 40 50 "
+ },
+ {
+  "truth": 12.2,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": ".48% (mean ± s.d.); entries use seed 0. Balanced 47.8% Mild 30.0% Strong 10.0% Floor-hold 12.2% 0 10 20 30 40 50 Wrong-track time "
+ },
+ {
+  "truth": 17.14,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "on, and the shaded strata are activity-asymmetric. affected sessions: worst-session WT is 17.14%, versus 42.72% for waveform re-id"
+ },
+ {
+  "truth": 42.72,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ded strata are activity-asymmetric. affected sessions: worst-session WT is 17.14%, versus 42.72% for waveform re-identification. L"
+ },
+ {
+  "truth": 1.89,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "g it. Quadrupling the chunk length improves the unaligned baseline, while routing reaches 1.89% WT against 4.72% for enrolled re- "
+ },
+ {
+  "truth": 4.72,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " the chunk length improves the unaligned baseline, while routing reaches 1.89% WT against 4.72% for enrolled re- identification, a"
+ },
+ {
+  "truth": 60.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "baseline, while routing reaches 1.89% WT against 4.72% for enrolled re- identification, a 60.0% relative reduction, so both contex"
+ },
+ {
+  "truth": 1.3,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "he method of choice. In balanced chunks, routing and waveform re-identification coincide (1.3% versus 1.2% WT); the difference ari"
+ },
+ {
+  "truth": 1.2,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " choice. In balanced chunks, routing and waveform re-identification coincide (1.3% versus 1.2% WT); the difference arises in activ"
+ },
+ {
+  "truth": 10.2,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "T); the difference arises in activity-asymmetric speech, where re-identification rises to 10.2% and 28.6% while routing holds it t"
+ },
+ {
+  "truth": 28.6,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "fference arises in activity-asymmetric speech, where re-identification rises to 10.2% and 28.6% while routing holds it to 7.2% and"
+ },
+ {
+  "truth": 7.2,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "metric speech, where re-identification rises to 10.2% and 28.6% while routing holds it to 7.2% and 17.8%. Overlap matching remains"
+ },
+ {
+  "truth": 17.8,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "eech, where re-identification rises to 10.2% and 28.6% while routing holds it to 7.2% and 17.8%. Overlap matching remains near the"
+ },
+ {
+  "truth": 20.8,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "listener track, whose low-energy content yields unstable scores. In floor-holding chunks, 20.8% of waveform decisions and 28.1% of"
+ },
+ {
+  "truth": 28.1,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " content yields unstable scores. In floor-holding chunks, 20.8% of waveform decisions and 28.1% of overlap-cosine decisions have m"
+ },
+ {
+  "truth": 52.2,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "efore the method of choice for long, activity-asymmetric conversations, which account for 52.2% of speech-bearing duration on CAND"
+ },
+ {
+  "truth": 92.0,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "argins and reverse exactly. At the audio level, the decoded tracks follow the exchange in 92.0% of distinct-voice chunks and 98.6%"
+ },
+ {
+  "truth": 98.6,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "audio level, the decoded tracks follow the exchange in 92.0% of distinct-voice chunks and 98.6% of chunks in the highest activity-"
+ },
+ {
+  "truth": 92.5,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ining while retaining architecture, recipe, and evaluation clips. Development accuracy is 92.50% versus 94.17%, and matched simila"
+ },
+ {
+  "truth": 94.17,
+  "doc": "2610.27109.pdf",
+  "page": 2,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "taining architecture, recipe, and evaluation clips. Development accuracy is 92.50% versus 94.17%, and matched similar-/distinct-vo"
+ },
+ {
+  "truth": 100.0,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "are of chunks embedded; labels give WT at 𝜃= .30. Open markers are full waveform re-ID at 100% coverage. 4.4. Transfer at a fracti"
+ },
+ {
+  "truth": 4.17,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "t The same router, three recording domains. The same CANDOR- trained router reduces WT to 4.17% on Seamless and 2.32% on SpokenWOZ"
+ },
+ {
+  "truth": 2.32,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ee recording domains. The same CANDOR- trained router reduces WT to 4.17% on Seamless and 2.32% on SpokenWOZ, versus 18.66% and 13"
+ },
+ {
+  "truth": 18.66,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ame CANDOR- trained router reduces WT to 4.17% on Seamless and 2.32% on SpokenWOZ, versus 18.66% and 13.39% without alignment (Ta-"
+ },
+ {
+  "truth": 13.39,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " trained router reduces WT to 4.17% on Seamless and 2.32% on SpokenWOZ, versus 18.66% and 13.39% without alignment (Ta- ble 1a), a"
+ },
+ {
+  "truth": 22.3,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "parates high-risk assignments from confidently routed speech (Fig. 3a). The lowest-margin 22.3% of the 8,389 observable chunks, ex"
+ },
+ {
+  "truth": 89.2,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "f the 8,389 observable chunks, exactly the region checked at the default 𝜃= 0.30, contain 89.2% of routing errors; 3,103 chunks wi"
+ },
+ {
+  "truth": 1.74,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "st the share of output embedded; 𝜃= 0.30 gives the last row of Table 1a. Seamless reaches 1.74% WT while embedding 20.0% of chunks"
+ },
+ {
+  "truth": 20.0,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "bedded; 𝜃= 0.30 gives the last row of Table 1a. Seamless reaches 1.74% WT while embedding 20.0% of chunks, below the 2.15% of full"
+ },
+ {
+  "truth": 2.15,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ast row of Table 1a. Seamless reaches 1.74% WT while embedding 20.0% of chunks, below the 2.15% of full waveform re-identification"
+ },
+ {
+  "truth": 100.0,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "WT while embedding 20.0% of chunks, below the 2.15% of full waveform re-identification at 100% coverage; SpokenWOZ reaches 0.87% w"
+ },
+ {
+  "truth": 36.1,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "full waveform re-identification at 100% coverage; SpokenWOZ reaches 0.87% while embedding 36.1%, about a third of the recognition "
+ },
+ {
+  "truth": 4.2,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " recognition that full re-identification spends. On in-domain CANDOR, WT stays within 3.8–4.2% at every threshold, below the 6.20%"
+ },
+ {
+  "truth": 6.2,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ation spends. On in-domain CANDOR, WT stays within 3.8–4.2% at every threshold, below the 6.20% of full re-identification. Across "
+ },
+ {
+  "truth": 2.78,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lds in ev- ery speaker-similarity quartile: duration-pooled verified WT is 1.15/1.35/1.88/2.78%, versus 2.04/1.41/2.44/2.80% for f"
+ },
+ {
+  "truth": 2.8,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rity quartile: duration-pooled verified WT is 1.15/1.35/1.88/2.78%, versus 2.04/1.41/2.44/2.80% for full wave- form re-identificat"
+ },
+ {
+  "truth": 43.9,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "full- duplex dialogue recovery. On 25-minute conversations it cuts wrong- track time from 43.9% to 4.1% with 1.84 M added paramete"
+ },
+ {
+  "truth": 4.1,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lex dialogue recovery. On 25-minute conversations it cuts wrong- track time from 43.9% to 4.1% with 1.84 M added parameters, 2.8% "
+ },
+ {
+  "truth": 2.8,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " conversations it cuts wrong- track time from 43.9% to 4.1% with 1.84 M added parameters, 2.8% added runtime, and a frozen generat"
+ },
+ {
+  "truth": 36.0,
+  "doc": "2610.27109.pdf",
+  "page": 3,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "e and telephone recordings its margin tells where extra recognition is worth spending: 20–36% of the output instead of all of it. "
+ },
+ {
+  "truth": 1.88,
+  "doc": "2610.31292.pdf",
+  "page": 9,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "1.0 achieves the lowest reported error rates on FLEURS Chinese and English, with a CER of 1.88% and a WER of 2.25%, respectively. "
+ },
+ {
+  "truth": 2.25,
+  "doc": "2610.31292.pdf",
+  "page": 9,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "west reported error rates on FLEURS Chinese and English, with a CER of 1.88% and a WER of 2.25%, respectively. Relative to the bes"
+ },
+ {
+  "truth": 35.2,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "n systems. comparison result on each subset, these correspond to error-rate reductions of 35.2% and 16.7%. It also achieves the lo"
+ },
+ {
+  "truth": 16.7,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " comparison result on each subset, these correspond to error-rate reductions of 35.2% and 16.7%. It also achieves the lowest repor"
+ },
+ {
+  "truth": 1.08,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "5.2% and 16.7%. It also achieves the lowest reported WER on the LibriSpeech clean subset (1.08%), speechocean762 (10.14%), and TED"
+ },
+ {
+  "truth": 10.14,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "achieves the lowest reported WER on the LibriSpeech clean subset (1.08%), speechocean762 (10.14%), and TED (7.13%), demonstrating "
+ },
+ {
+  "truth": 7.13,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "t reported WER on the LibriSpeech clean subset (1.08%), speechocean762 (10.14%), and TED (7.13%), demonstrating competitive recogn"
+ },
+ {
+  "truth": 2.81,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lowest reported average error rates for the 14-language and 20-language FLEURS groups, at 2.81% and 6.30%, respectively. On the 64"
+ },
+ {
+  "truth": 6.3,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "orted average error rates for the 14-language and 20-language FLEURS groups, at 2.81% and 6.30%, respectively. On the 64-language "
+ },
+ {
+  "truth": 31.89,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ps, at 2.81% and 6.30%, respectively. On the 64-language group, its average error rate of 31.89% is lower than that of Qwen3.5-Omn"
+ },
+ {
+  "truth": 39.0,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "anguage group, its average error rate of 31.89% is lower than that of Qwen3.5-Omni-Flash (39.00%) but higher than those of Qwen3.5"
+ },
+ {
+  "truth": 28.66,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ower than that of Qwen3.5-Omni-Flash (39.00%) but higher than those of Qwen3.5-Omni-Plus (28.66%) and Gemini 3.1 Pro (20.09%). The"
+ },
+ {
+  "truth": 20.09,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ni-Flash (39.00%) but higher than those of Qwen3.5-Omni-Plus (28.66%) and Gemini 3.1 Pro (20.09%). The results therefore show an a"
+ },
+ {
+  "truth": 7.26,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "te on each ASR evaluation in Table 5. On general Chinese recognition, it obtains a CER of 7.26%, compared with 7.45% for the best "
+ },
+ {
+  "truth": 7.45,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "tion in Table 5. On general Chinese recognition, it obtains a CER of 7.26%, compared with 7.45% for the best comparison system. Th"
+ },
+ {
+  "truth": 14.29,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " best comparison system. The margin is larger on the 202-dialect corpus, where its CER of 14.29% improves on the best comparison r"
+ },
+ {
+  "truth": 19.79,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "the 202-dialect corpus, where its CER of 14.29% improves on the best comparison result of 19.79% by 5.50 percentage points, corres"
+ },
+ {
+  "truth": 27.8,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ves on the best comparison result of 19.79% by 5.50 percentage points, corresponding to a 27.8% relative reduction. For the 14-lan"
+ },
+ {
+  "truth": 7.75,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "lative reduction. For the 14-language and 18-language groups, its average error rates are 7.75% and 9.87%, compared with 10.86% an"
+ },
+ {
+  "truth": 9.87,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "uction. For the 14-language and 18-language groups, its average error rates are 7.75% and 9.87%, compared with 10.86% and 12.06% f"
+ },
+ {
+  "truth": 10.86,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "nguage and 18-language groups, its average error rates are 7.75% and 9.87%, compared with 10.86% and 12.06% for the respective bes"
+ },
+ {
+  "truth": 12.06,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "18-language groups, its average error rates are 7.75% and 9.87%, compared with 10.86% and 12.06% for the respective best compariso"
+ },
+ {
+  "truth": 37.76,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "Chinese ASR results for high-noise and low-volume speech. Spark-Audio 1.0 obtains CERs of 37.76% and 17.17%, respectively, compare"
+ },
+ {
+  "truth": 17.17,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " results for high-noise and low-volume speech. Spark-Audio 1.0 obtains CERs of 37.76% and 17.17%, respectively, compared with 38.6"
+ },
+ {
+  "truth": 38.66,
+  "doc": "2610.31292.pdf",
+  "page": 10,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "me speech. Spark-Audio 1.0 obtains CERs of 37.76% and 17.17%, respectively, compared with 38.66% and 11 "
+ },
+ {
+  "truth": 23.62,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "gh-noise speech CER ↓ 37.76 38.66 40.31 – Low-volume speech CER ↓ 17.17 23.62 25.83 57.72 23.62% for Qwen3.5-Omni-Flash, the stron"
+ },
+ {
+  "truth": 2.3,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ted comparison system in both conditions. The corresponding relative error reductions are 2.3% and 27.3%. The margin in the high-n"
+ },
+ {
+  "truth": 27.3,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "rison system in both conditions. The corresponding relative error reductions are 2.3% and 27.3%. The margin in the high-noise cond"
+ },
+ {
+  "truth": 73.96,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "e to Qwen3.5-Omni-Flash (72.63) but below Qwen3.5-Omni-Plus (79.23). On MMSU, it achieves 73.96% accuracy, exceeding Qwen3.5-Omni-"
+ },
+ {
+  "truth": 72.2,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": ".5-Omni-Plus (79.23). On MMSU, it achieves 73.96% accuracy, exceeding Qwen3.5-Omni-Flash (72.20%) while trailing Qwen3.5-Omni-Plus"
+ },
+ {
+  "truth": 82.8,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " 73.96% accuracy, exceeding Qwen3.5-Omni-Flash (72.20%) while trailing Qwen3.5-Omni-Plus (82.80%) and Gemini 3.1 Pro (81.30%). On "
+ },
+ {
+  "truth": 81.3,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "Qwen3.5-Omni-Flash (72.20%) while trailing Qwen3.5-Omni-Plus (82.80%) and Gemini 3.1 Pro (81.30%). On MMAR, it obtains 57.90% accu"
+ },
+ {
+  "truth": 57.9,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "hile trailing Qwen3.5-Omni-Plus (82.80%) and Gemini 3.1 Pro (81.30%). On MMAR, it obtains 57.90% accuracy, below all three compari"
+ },
+ {
+  "truth": 63.28,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "ow Qwen3.5-Omni-Plus (93.10). On the in-house evaluations, it obtains full-score rates of 63.28% for general interaction and 67.92"
+ },
+ {
+  "truth": 67.92,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "e in-house evaluations, it obtains full-score rates of 63.28% for general interaction and 67.92% for instruction following, exceed"
+ },
+ {
+  "truth": 49.57,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "r general interaction and 67.92% for instruction following, exceeding Qwen3.5-Omni-Flash (49.57% and 60.83%) but remaining 2.08 an"
+ },
+ {
+  "truth": 60.83,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "nteraction and 67.92% for instruction following, exceeding Qwen3.5-Omni-Flash (49.57% and 60.83%) but remaining 2.08 and 2.50 perc"
+ },
+ {
+  "truth": 69.58,
+  "doc": "2610.31292.pdf",
+  "page": 11,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "Omni-Plus, respectively. Gemini 3.1 Pro also achieves a higher instruction-following FSR (69.58%). Overall, the interaction result"
+ },
+ {
+  "truth": 8.93,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "s both public benchmarks and in-house evaluation sets. It achieves average error rates of 8.93% on the 15 Chinese test sets and 6."
+ },
+ {
+  "truth": 6.17,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "evaluation sets. It achieves average error rates of 8.93% on the 15 Chinese test sets and 6.17% on the five English test sets, com"
+ },
+ {
+  "truth": 10.47,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " 8.93% on the 15 Chinese test sets and 6.17% on the five English test sets, compared with 10.47% and 7.35%, respectively, for AuT."
+ },
+ {
+  "truth": 7.35,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "he 15 Chinese test sets and 6.17% on the five English test sets, compared with 10.47% and 7.35%, respectively, for AuT. On FLEURS,"
+ },
+ {
+  "truth": 26.24,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "vely, for AuT. On FLEURS, the Spark-Audio encoder achieves a macro-averaged error rate of 26.24% across 37 languages, an absolute "
+ },
+ {
+  "truth": 16.4,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " that overlap with Qwen3-Omni’s reported speech-input coverage, the average error rate is 16.40%, corresponding to reductions of 6"
+ },
+ {
+  "truth": 61.49,
+  "doc": "2610.31292.pdf",
+  "page": 12,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": " the audio understanding results. The Spark-Audio encoder achieves an average accuracy of 61.49% across eight evaluation sets, imp"
+ },
+ {
+  "truth": 30.77,
+  "doc": "2610.31292.pdf",
+  "page": 13,
+  "year": 2026,
+  "month": 10,
+  "stype": "preprint",
+  "ctx": "and gender prediction: the Spark-Audio encoder matches AuT on the in-house emotion set at 30.77%, but trails it by 7.50 percentage"
+ },
+ {
+  "truth": 78.6,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "类公开作品 TACT 三轴坐标分类法（CC  BY  4.0，作者  KLameng，致谢）。我们经公开接口取得其坐标库（259,226 字节）与引擎源码，复现其公开基线  L  78.6%  /  M  95.7%  /  P  86.4%  逐位一致  —"
+ },
+ {
+  "truth": 95.7,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "坐标分类法（CC  BY  4.0，作者  KLameng，致谢）。我们经公开接口取得其坐标库（259,226 字节）与引擎源码，复现其公开基线  L  78.6%  /  M  95.7%  /  P  86.4%  逐位一致  —— 确认取到的确是真身后，"
+ },
+ {
+  "truth": 86.4,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 4.0，作者  KLameng，致谢）。我们经公开接口取得其坐标库（259,226 字节）与引擎源码，复现其公开基线  L  78.6%  /  M  95.7%  /  P  86.4%  逐位一致  —— 确认取到的确是真身后，做了三项检验： 检验 结果"
+ },
+ {
+  "truth": 48.28,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "认取到的确是真身后，做了三项检验： 检验 结果 分轴召回 vs 三轴联合 分轴  78.6  /  95.7  /  86.4，但坐标是三元组，三轴完全匹配仅  14/29  = 48.28%；三轴独立时的联合期望是 64.91%，实际低 16.6 个百分点（"
+ },
+ {
+  "truth": 64.91,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "验 结果 分轴召回 vs 三轴联合 分轴  78.6  /  95.7  /  86.4，但坐标是三元组，三轴完全匹配仅  14/29  = 48.28%；三轴独立时的联合期望是 64.91%，实际低 16.6 个百分点（轴间错误正相关） 同义改写（语义不变，"
+ },
+ {
+  "truth": 44.44,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "；三轴独立时的联合期望是 64.91%，实际低 16.6 个百分点（轴间错误正相关） 同义改写（语义不变， 只换词面） 三轴召回全部精确归零；剔除 golden 全空的 2 条后 44.44% → 0.00% 标点扰动（无关对照， 不改任何词） 与原文逐位相同"
+ },
+ {
+  "truth": 16.7,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": ".00% 标点扰动（无关对照， 不改任何词） 与原文逐位相同 —— 证明效应来自词面替换，而不是来自\"改写\"这个动作 剂量-反应：累积替换 k 个语义等价的词，翻转率 k=1 → 16.7%、k=3 → 50.0%、k=6 → 100%（12/12 全部翻转）"
+ },
+ {
+  "truth": 50.0,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "对照， 不改任何词） 与原文逐位相同 —— 证明效应来自词面替换，而不是来自\"改写\"这个动作 剂量-反应：累积替换 k 个语义等价的词，翻转率 k=1 → 16.7%、k=3 → 50.0%、k=6 → 100%（12/12 全部翻转）。每条都存在有限的翻转阈"
+ },
+ {
+  "truth": 100.0,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "原文逐位相同 —— 证明效应来自词面替换，而不是来自\"改写\"这个动作 剂量-反应：累积替换 k 个语义等价的词，翻转率 k=1 → 16.7%、k=3 → 50.0%、k=6 → 100%（12/12 全部翻转）。每条都存在有限的翻转阈值（1~6 个词）。结论"
+ },
+ {
+  "truth": 89.8,
+  "doc": "LuoShen-O1_Intro.pdf",
+  "page": 10,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 300 -0.1494 0.0311 8/8 400 -0.1495 0.0333 8/8 8/8 seeds 符号一致。但它是阈值型而非线性：最短剂量 50 拍已达最大效应的 89.8%，延长到 400 拍只再增加 0.0153。即早期剥夺存在阈值，超过后"
+ },
+ {
+  "truth": 3.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "源模型的默认底盘是  MoE  稀疏激活：DeepSeek-V4  Pro  1.6T/49B、Kimi  K3 2.8T/104B、Qwen3.5 397B/17B，激活比仅约 3%–5.5%。关键事实是：即便算力充足，它们仍然强制 top-K 路由。 顶级"
+ },
+ {
+  "truth": 5.5,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "的默认底盘是  MoE  稀疏激活：DeepSeek-V4  Pro  1.6T/49B、Kimi  K3 2.8T/104B、Qwen3.5 397B/17B，激活比仅约 3%–5.5%。关键事实是：即便算力充足，它们仍然强制 top-K 路由。 顶级开源模"
+ },
+ {
+  "truth": 39.4,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 9,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "是本体论缺陷，是工程未接线（第 288 条）。 实测：同一世界，两套换能器（只比带宽，不加不对称加权） 通道 碳基漏掉 硅基漏掉 声（含 10 Hz 次声与 21 kHz 超声） 39.4% 0.0% 光（含 320 nm 紫外与 850 nm 近红外） 36"
+ },
+ {
+  "truth": 36.2,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 9,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "只比带宽，不加不对称加权） 通道 碳基漏掉 硅基漏掉 声（含 10 Hz 次声与 21 kHz 超声） 39.4% 0.0% 光（含 320 nm 紫外与 850 nm 近红外） 36.2% 15.5% 碳基看不见次声与超声、紫外与近红外；硅基看不见紫外。不是"
+ },
+ {
+  "truth": 15.5,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 9,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "加不对称加权） 通道 碳基漏掉 硅基漏掉 声（含 10 Hz 次声与 21 kHz 超声） 39.4% 0.0% 光（含 320 nm 紫外与 850 nm 近红外） 36.2% 15.5% 碳基看不见次声与超声、紫外与近红外；硅基看不见紫外。不是谁更强，是各"
+ },
+ {
+  "truth": 2.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 11,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "因：sigma_in  →  sense  →  pres/miss  →  want，但  k_seek  与  k_sal  默认均为 0，通路在末端断开。打开后效应量仍 < 2% 且饱和。这是第 23 条（变量静默失效）在本项目的第 7 次实例（第 29"
+ },
+ {
+  "truth": 87.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "接进来。本实验不再论证，直接接。 真实感受器阵列（腾讯位置服务气象接口，2026-10-16 23:05 真实读数） 感受器 温度 湿度 气压 天气 威海（宿主所在地） 17°C 87% 1010 晴 广州（本实体网络出口） 23°C 92% 1007 晴 哈"
+ },
+ {
+  "truth": 92.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "置服务气象接口，2026-10-16 23:05 真实读数） 感受器 温度 湿度 气压 天气 威海（宿主所在地） 17°C 87% 1010 晴 广州（本实体网络出口） 23°C 92% 1007 晴 哈尔滨 −1°C 78% 1012 晴 深圳 26°C 8"
+ },
+ {
+  "truth": 78.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "3:05 真实读数） 感受器 温度 湿度 气压 天气 威海（宿主所在地） 17°C 87% 1010 晴 广州（本实体网络出口） 23°C 92% 1007 晴 哈尔滨 −1°C 78% 1012 晴 深圳 26°C 80% 1008 多云 拉萨 8°C 30"
+ },
+ {
+  "truth": 80.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "度 气压 天气 威海（宿主所在地） 17°C 87% 1010 晴 广州（本实体网络出口） 23°C 92% 1007 晴 哈尔滨 −1°C 78% 1012 晴 深圳 26°C 80% 1008 多云 拉萨 8°C 30% 640 晴 成都 19°C 100"
+ },
+ {
+  "truth": 30.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "7°C 87% 1010 晴 广州（本实体网络出口） 23°C 92% 1007 晴 哈尔滨 −1°C 78% 1012 晴 深圳 26°C 80% 1008 多云 拉萨 8°C 30% 640 晴 成都 19°C 100% 950 阴 12  个感受器全部成"
+ },
+ {
+  "truth": 100.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "本实体网络出口） 23°C 92% 1007 晴 哈尔滨 −1°C 78% 1012 晴 深圳 26°C 80% 1008 多云 拉萨 8°C 30% 640 晴 成都 19°C 100% 950 阴 12  个感受器全部成功。温度场均值  16.08、标准差"
+ },
+ {
+  "truth": 100.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 阴性结果：系统不响应真实的物理结构（置换检验，40 个随机排列） 真实温度场有极强的物理结构——纬度梯度  r  =  −0.8069，在  40  个随机排列的零分布中位于  100% 百分位（零分布均值  −0.0392）。但置换检验显示：存活率  re"
+ },
+ {
+  "truth": 100.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 13,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 这不是静默失效——阴性结果三要素齐备：①  变量接通主通道（排列零分布存活率标准差  0.3848，范围 0.000–1.000，有梯度）；②  真值有区分度（|r|  位于  100%  百分位）；③ 效应不显著。系统对输入排列极度敏感，但真实世界的物理梯"
+ },
+ {
+  "truth": 100.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 14,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "状态。 换能器阵列审计（实测状态码，不是类别推断） 模态 换能器 实测 读数 温度觉·皮肤 气象站 ×10 城 200 8.0–26.0 °C 湿度 / 气压 同上 200 31–100% / 640–1019 hPa 粗略视觉（明暗） 天气现象编码 200 "
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 14,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "p 说明 真实地理权重 0.7613 < 0.001 置换 3000 次 对照·随机权重 0.3889 0.0080 ★ 对照也显著 Δr（真实效应） 0.3725 0.0037 95%CI [0.0948, 0.6700] 剂量反应单调：500–1000  "
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 15,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "）。16 seeds × 600 拍，接入 sal，k_sal=0.60。量化到桶中点并归一化，保证幅度一致、只改粒度。 表征粒度 L 偏度 Δ vs 无感官 与 L=0 配对差 95%CI 判定 0（无表征·纯连续 ） 0.314954 +0.059627 "
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 15,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "33, +0.0016] 等价 100 0.315283 +0.059956 [−0.0004, +0.0011] 等价 H1 成立：无表征 vs 无感官，Δ=+0.059627，95%CI [+0.0340, +0.0862] 全正。H2 成立：全部 L 与"
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档.pdf",
+  "page": 15,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "0 的配对差 CI 均跨 0 → 实质等价。1 bit 的粗糙表征与全精度连续表征，产生的内在结构无差别。 效应特异性对照（078b）与结构来源分解 条件 偏度 Δ vs 无感知 95%CI 无感知（sal=0） 0.256599 — — 有输入·零结构（全 "
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 6,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 的（第 377 条）。 同时，本体觉仍在线（/proc/loadavg、内存、时钟、RTT 均真实波动）。把这次剥夺 形式化接引擎：外源关 vs 外源开，配对差 +0.0039，95%CI [−0.0096, +0.0166] 跨 0 → 无差异。 外部感受"
+ },
+ {
+  "truth": 95.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 7,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "对比 配对差 95% CI 显著 通道形态：协议 1 拍 vs GUI 11 拍+0.002259 [−0.0078,+"
+ },
+ {
+  "truth": 20.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 7,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "差精确 0.000000（两侧各复现一次）。 延迟剂量反应给出为什么：1/2/4/8/11/16 拍全部不显著，24/32/48/64 拍显著， 阈值在 16~24 拍（周期的  20%~30%）——实测的 11.1× 落在阈值以下，故无效应。 不是“协议比 "
+ },
+ {
+  "truth": 30.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 7,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "0.000000（两侧各复现一次）。 延迟剂量反应给出为什么：1/2/4/8/11/16 拍全部不显著，24/32/48/64 拍显著， 阈值在 16~24 拍（周期的  20%~30%）——实测的 11.1× 落在阈值以下，故无效应。 不是“协议比 GUI "
+ },
+ {
+  "truth": 30.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "、可交互，适合作为“人工生命 / 复杂系统”课程的可运行教具 4.0 落地核心：evalguard —— 从引擎里长出来的可交付产品 引擎本身是研究对象。评审维度中「场景落地」占 30%，我们用一块真实产品来回答“拿来能用吗”。 evalguard 是把判据核"
+ },
+ {
+  "truth": 90.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 8,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "脚本 指标 结果 扫描对象 55 个真实 Python 脚本 旗舰功能（方法论类规则）实测站不住 → 主动关闭，不出售 规则数 26 条（从 26 条砍到实际出货 3 条） 精度 90% “实测站不住就关掉”这件事本身是设计的一部分：我们不做“看起来有用”的功"
+ },
+ {
+  "truth": 89.8,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 11,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": " 300 −0.1494 0.0311 8/8 400 −0.1495 0.0333 8/8 8/8 seeds 符号一致。但它是阈值型而非线性：最短剂量 50 拍已达最大效应的 89.8%， 延长到 400 拍只再增 加 0.0153。即早期剥夺存在阈值，超"
+ },
+ {
+  "truth": 90.0,
+  "doc": "洛神O1_作品介绍文档_终版.pdf",
+  "page": 14,
+  "year": null,
+  "month": null,
+  "stype": "selfdoc",
+  "ctx": "入摊薄），但未做剂量-反应曲线 验证  5. 视频片头标 159 条，本文档标 197 条 —— 两处统计口径不同，我们如实披露、不静默对齐  6. evalguard 的“精度 90%”样本为自建集，未经第三方标注者独立验证  7. 听觉采集 / 摄像头 /"
+ }
+]
