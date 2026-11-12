@@ -1,0 +1,60 @@
+{
+  "c1_blacks_equation": true,
+  "c1_slope": -2.0007521633541776,
+  "c2_boost_interior": true,
+  "boost_peak": 0.7,
+  "boost_span": 0.05502451676493514,
+  "c3_rest_interior": true,
+  "rest_peak": 0.5,
+  "rest_span": 0.049737319610587416,
+  "c4_rest_hard_dep": true,
+  "rest_peak_on": 0.5,
+  "rest_peak_off": 1.1,
+  "c5_boost_hard_dep": true,
+  "boost_peak_on": 0.7,
+  "boost_peak_off": 0.9,
+  "c6_alarm_shifts": true,
+  "alarm_peak_irrev": 0.0,
+  "alarm_peak_heal": 0.35,
+  "alarm_span_irrev": 0.00859146017481005,
+  "alarm_span_heal": 0.011255804323645702,
+  "c7_learned": true,
+  "start_score": 0.3873146083787041,
+  "learned_score": 0.5212655010139077,
+  "learned_params": {
+    "boost": 0.55,
+    "alarm": 0.9,
+    "rest_q": 0.68
+  },
+  "c8_heldout": true,
+  "heldout": {
+    "her": 0.4917908842438727,
+    "her_params": {
+      "boost": 0.3,
+      "alarm": 0.9,
+      "rest_q": 0.38
+    },
+    "memory": 0.41514764254380526,
+    "mine": 0.26215442946407347,
+    "start": 0.2559373768185099,
+    "random": 0.355044957038163
+  },
+  "c9_not_mine": true,
+  "dist_to_mine": 0.286421083436672,
+  "c10_cross": true,
+  "cross_score": 0.48576440287084593,
+  "c11_short_sighted": true,
+  "short_sighted": {
+    "boost": 1.0,
+    "heldout_score": 0.2559373768185099,
+    "heldout_survival": 0.0
+  },
+  "c12_confusion": true,
+  "confusion": {
+    "rush": 0.3431447906115484,
+    "conservative": 0.46830824940518245,
+    "rush_survival": 0.0
+  },
+  "n_criteria": 12,
+  "n_passed": 12
+}
