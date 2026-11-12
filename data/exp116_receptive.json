@@ -1,0 +1,32 @@
+{
+  "vocab_size": 600,
+  "receptive_accuracy": 0.8033333333333333,
+  "productive_accuracy": 0.15833333333333333,
+  "random_baseline": 0.1,
+  "receptive_set": 294,
+  "productive_set": 145,
+  "only_receptive": 149,
+  "only_productive": 0,
+  "intersection": 145,
+  "ratio": 2.027586206896552,
+  "containment_violation": 0.0,
+  "cdi_norms": {
+    "12mo": {
+      "receptive": 50,
+      "productive": 3,
+      "ratio": 16.7
+    },
+    "16mo": {
+      "receptive": 170,
+      "productive": 40,
+      "ratio": 4.25
+    },
+    "18mo": {
+      "receptive": 200,
+      "productive": 75,
+      "ratio": 2.67
+    }
+  },
+  "corpus_chars": 120000,
+  "note": "语料为成人对话(KdConv)，非儿童导向言语；理解/产出的【形状】可检验，绝对值不可与CDI常模直接比较"
+}
