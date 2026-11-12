@@ -1,0 +1,13 @@
+{
+ "learned": {
+  "d": 0.18,
+  "a": 0.25
+ },
+ "blind_start_hit": 0.1204,
+ "learned_hit_test": 0.3605,
+ "her_avg_pros": -0.2054,
+ "her_hit": 0.3333,
+ "her_prev_sim": 0.105,
+ "dup_prev_sim": 1.0,
+ "audio": "/data/workspace/luoshen-o1/data/her_voice/she_talks_108.wav"
+}
