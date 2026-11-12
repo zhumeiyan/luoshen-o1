@@ -1,0 +1,11 @@
+{
+  "n_boundaries": 68000,
+  "positive_rate": 0.6243676470588235,
+  "always_positive_accuracy": 0.6243676470588235,
+  "random_auc": 0.4947834907708613,
+  "auc_pmi_positive": 0.13933078829654696,
+  "auc_pmi_negative": 0.860669211703453,
+  "auc_bigram_freq": 0.3387224698245951,
+  "external_tool_agreement": 0.8657662624035282,
+  "human_ceiling_note": "中文分词人际一致率约 90~95%（SIGHAN bakeoff），超过即疑金标泄露"
+}
