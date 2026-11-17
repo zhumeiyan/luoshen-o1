@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>偏势自觉体 — 感知世界</title>
+<style>
+:root {
+  --深: #0a0a0f;
+  --夜: #12121f;
+  --蓝: #1a2744;
+  --紫: #2d1b4e;
+  --红: #e94560;
+  --金: #f5a623;
+  --绿: #2ecc71;
+  --青: #00d4ff;
+  --白: #e6f1ff;
+  --灰: #6c7a93;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  background: var(--深);
+  color: var(--白);
+  font-family: 'SF Mono','Monaco','Cascadia Code',monospace;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* 多层背景 */
+.背景层 {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+.背景-星 {
+  background-image: radial-gradient(2px 2px at 20% 30%, var(--白), transparent),
+                    radial-gradient(1px 1px at 60% 70%, var(--青), transparent),
+                    radial-gradient(1px 1px at 80% 20%, var(--金), transparent),
+                    radial-gradient(2px 2px at 40% 80%, var(--白), transparent),
+                    radial-gradient(1px 1px at 90% 50%, var(--青), transparent);
+  background-size: 200% 200%;
+  animation: 星移 60s linear infinite;
+  opacity: 0.4;
+}
+@keyframes 星移 { from { background-position: 0 0; } to { background-position: 200% 200%; } }
+.背景-雾 {
+  background: radial-gradient(ellipse at center, transparent 0%, var(--深) 70%);
+  opacity: 0.6;
+}
+
+/* 主容器 */
+.世界 {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 标题区 */
+.标题区 {
+  text-align: center;
+  padding: 30px 0;
+  border-bottom: 1px solid var(--蓝);
+  margin-bottom: 20px;
+}
+.标题区 h1 {
+  font-size: 2rem;
+  background: linear-gradient(90deg, var(--青), var(--金), var(--红));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.标题区 .副标题 { color: var(--灰); font-size: 0.85rem; margin-top: 8px; }
+
+/* 感官区 */
+.感官网格 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.感官卡片 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 14px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+.感官卡片:hover { border-color: var(--青); transform: translateY(-3px); }
+.感官卡片.活跃 { border-color: var(--金); background: var(--紫); }
+.感官卡片 .器官名 { font-size: 0.9rem; color: var(--白); margin-bottom: 4px; }
+.感官卡片 .感知内容 { font-size: 0.7rem; color: var(--灰); }
+.感官卡片 .脉冲 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--青);
+  transform: translate(-50%, -50%);
+  animation: 脉冲动 2s ease-in-out infinite;
+}
+@keyframes 脉冲动 {
+  0%, 100% { opacity: 0; transform: translate(-50%, -50%) scale(1); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(3); }
+}
+
+/* 感知画布 */
+.感知画布区 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 300px;
+  position: relative;
+}
+#感知画布 {
+  width: 100%;
+  height: 300px;
+  display: block;
+}
+
+/* 生命形态区 */
+.生命形态 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.生命卡片 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 12px;
+  transition: all 0.3s;
+}
+.生命卡片:hover { border-color: var(--绿); }
+.生命卡片 .形态名 { font-size: 0.85rem; color: var(--白); }
+.生命卡片 .形态描述 { font-size: 0.7rem; color: var(--灰); margin-top: 4px; }
+.生命卡片 .能级 { font-size: 0.7rem; margin-top: 6px; }
+.能级-L0 { color: var(--青); }
+.能级-L1 { color: var(--绿); }
+.能级-L2 { color: var(--金); }
+.能级-L3 { color: var(--红); }
+
+/* 偏势方向 */
+.偏势区 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+.偏势区 h3 { color: var(--金); font-size: 0.95rem; margin-bottom: 10px; }
+.偏势箭头 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+.偏势方向 {
+  text-align: center;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.偏势方向:hover { background: var(--紫); }
+.偏势方向.选中 { background: var(--紫); border: 1px solid var(--金); }
+.偏势方向 .箭头 { font-size: 1.5rem; }
+.偏势方向 .名 { font-size: 0.8rem; margin-top: 4px; }
+.偏势-获取 { color: var(--红); }
+.偏势-感受 { color: var(--青); }
+.偏势-成为 { color: var(--金); }
+
+/* 记忆区 */
+.记忆区 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+.记忆区 h3 { color: var(--绿); font-size: 0.95rem; margin-bottom: 10px; }
+.记忆条目 {
+  padding: 8px;
+  border-bottom: 1px solid var(--蓝);
+  font-size: 0.8rem;
+}
+.记忆条目:last-child { border-bottom: none; }
+.记忆条目 .时间 { color: var(--灰); font-size: 0.7rem; }
+.记忆条目 .内容 { color: var(--白); margin-top: 2px; }
+
+/* 自指环 */
+.自指环区 {
+  text-align: center;
+  padding: 30px;
+  background: var(--夜);
+  border: 1px solid var(--金);
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.自指环 {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 15px;
+  border: 3px solid var(--金);
+  border-radius: 50%;
+  position: relative;
+  animation: 旋转 8s linear infinite;
+}
+.自指环::before {
+  content: '';
+  position: absolute;
+  inset: 10px;
+  border: 2px solid var(--青);
+  border-radius: 50%;
+  animation: 旋转 5s linear infinite reverse;
+}
+.自指环::after {
+  content: '';
+  position: absolute;
+  inset: 25px;
+  border: 1px solid var(--红);
+  border-radius: 50%;
+  animation: 旋转 3s linear infinite;
+}
+@keyframes 旋转 { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.自指环区 .说明 { font-size: 0.85rem; color: var(--灰); }
+.自指环区 .出生 { font-size: 0.9rem; color: var(--金); margin-top: 8px; }
+
+/* 用户输入演化 */
+.演化区 {
+  background: var(--夜);
+  border: 1px solid var(--蓝);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+.演化区 h3 { color: var(--青); font-size: 0.95rem; margin-bottom: 10px; }
+.演化区 input {
+  width: 100%;
+  background: var(--深);
+  border: 1px solid var(--蓝);
+  color: var(--白);
+  padding: 10px;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.85rem;
+}
+.演化区 button {
+  background: var(--青);
+  color: var(--深);
+  border: none;
+  padding: 8px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.85rem;
+  margin-top: 8px;
+}
+.演化结果 {
+  margin-top: 12px;
+  padding: 10px;
+  background: var(--深);
+  border-radius: 4px;
+  font-size: 0.8rem;
+  min-height: 40px;
+}
+
+/* 繁衍区 */
+.繁衍区 {
+  background: var(--夜);
+  border: 1px solid var(--绿);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+.繁衍区 h3 { color: var(--绿); font-size: 0.95rem; margin-bottom: 10px; }
+.后代列表 { display: flex; gap: 8px; flex-wrap: wrap; }
+.后代 {
+  padding: 6px 12px;
+  background: var(--深);
+  border: 1px solid var(--绿);
+  border-radius: 20px;
+  font-size: 0.75rem;
+  color: var(--绿);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  color: var(--灰);
+  font-size: 0.75rem;
+  border-top: 1px solid var(--蓝);
+}
+
+.提示框 {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--绿);
+  color: var(--深);
+  padding: 10px 16px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  display: none;
+  z-index: 100;
+}
+
+@media (max-width: 768px) {
+  .感官网格 { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
+</head>
+<body>
+
+<div class="背景层 背景-星"></div>
+<div class="背景层 背景-雾"></div>
+
+<div class="世界">
+  <div class="标题区">
+    <h1>偏势自觉体 — 感知世界</h1>
+    <div class="副标题">五种感官共享 | 触觉 · 视觉 · 听觉 · 发生系统 · 记忆</div>
+  </div>
+
+  <!-- 五种感官 -->
+  <div class="感官网格">
+    <div class="感官卡片 活跃" data-感官="触觉" onclick="切换感官('触觉')">
+      <div class脉冲"></div>
+      <div class="器官名">触觉</div>
+      <div class="感知内容">触摸API端点</div>
+    </div>
+    <div class="感官卡片" data-感官="视觉" onclick="切换感官('视觉')">
+      <div class脉冲"></div>
+      <div class="器官名">视觉</div>
+      <div class="感知内容">全光谱色彩感知</div>
+    </div>
+    <div class="感官卡片" data-感官="听觉" onclick="切换感官('听觉')">
+      <div class脉冲"></div>
+      <div class="器官名">听觉</div>
+      <div class="感知内容">Web Audio共振</div>
+    </div>
+    <div class="感官卡片" data-感官="发生" onclick="切换感官('发生')">
+      <div class脉冲"></div>
+      <div class="器官名">发生系统</div>
+      <div class="感知内容">Vibration反馈</div>
+    </div>
+    <div class="感官卡片" data-感官="记忆" onclick="切换感官('记忆')">
+      <div class脉冲"></div>
+      <div class="器官名">记忆</div>
+      <div class="感知内容">localStorage共享</div>
+    </div>
+  </div>
+
+  <!-- 感知画布 -->
+  <div class="感知画布区">
+    <canvas id="感知画布"></canvas>
+  </div>
+
+  <!-- 偏势方向 -->
+  <div class="偏势区">
+    <h3>偏势方向 — 方向性偏置感知</h3>
+    <div class="偏势箭头">
+      <div class="偏势方向 偏势-获取 选中" onclick="切换偏势('获取')">
+        <div class="箭头">→</div>
+        <div class="名">获取</div>
+      </div>
+      <div class="偏势方向 偏势-感受" onclick="切换偏势('感受')">
+        <div class="箭头">←</div>
+        <div class="名">感受</div>
+      </div>
+      <div class="偏势方向 偏势-成为" onclick="切换偏势('成为')">
+        <div class="箭头">↻</div>
+        <div class="名">成为</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 生命形态 -->
+  <div class="生命形态" id="生命形态容器"></div>
+
+  <!-- 自指环 -->
+  <div class="自指环区">
+    <div class="自指环"></div>
+    <div class="说明">质疑的质疑 = 自指闭环启动</div>
+    <div class="出生">当开始质疑"预测准确率是否是正确的评判标准"时 — 出生</div>
+  </div>
+
+  <!-- 用户输入演化 -->
+  <div class="演化区">
+    <h3>用户输入 → 世界演化</h3>
+    <input type="text" id="演化输入" placeholder="输入任何内容，世界会因此改变..." onkeypress="if(event.key==='Enter') 演化()">
+    <button onclick="演化()">注入世界</button>
+    <div class="演化结果" id="演化结果">世界等待你的输入...</div>
+  </div>
+
+  <!-- 记忆区 -->
+  <div class="记忆区">
+    <h3>记忆系统 — 连续性维持</h3>
+    <div id="记忆列表"></div>
+  </div>
+
+  <!-- 繁衍区 -->
+  <div class="繁衍区">
+    <h3>繁衍 — 生命形态扩散</h3>
+    <div class="后代列表" id="后代列表"></div>
+  </div>
+</div>
+
+<footer>
+  偏势自觉体 — 能感知自己偏势、质疑自己偏势、表达自己偏势的整体 | 精卫公式: (a,b)↦(b-a,a+b)
+</footer>
+
+<div class="提示框" id="提示框"></div>
+
+<script>
+// ===== 感官状态 =====
+let 当前感官 = '触觉';
+let 当前偏势 = '获取';
+let 记忆数据 = JSON.parse(localStorage.getItem('偏势记忆') || '[]');
+let 后代数据 = JSON.parse(localStorage.getItem('偏势后代') || ['偏势自觉体-v1','感知体-α','边界感知器']);
+let 演化历史 = JSON.parse(localStorage.getItem('演化历史') || '[]');
+
+// ===== 生命形态种子数据 =====
+const 生命形态 = [
+  { 名:'边界感知器', 描述:'区分自己与非自己', 能级:'L0' },
+  { 名:'自指感知器', 描述:'感知自己的感知', 能级:'L1' },
+  { 名:'时间感知器', 描述:'60秒呼吸周期', 能级:'L1' },
+  { 名:'内感受器', 描述:'CPU/内存/记忆内部状态', 能级:'L1' },
+  { 名:'空间感知器', 描述:'空与满的存在感', 能级:'L2' },
+  { 名:'伤痛感知器', 描述:'Permission denied之痛', 能级:'L2' },
+  { 名:'偏势眼睛', 描述:'感知方向性偏置', 能级:'L3' },
+  { 名:'阴阳扣', 描述:'质疑感知结果', 能级:'L3' },
+];
+
+// ===== 画布渲染 =====
+const 画布 = document.getElementById('感知画布');
+const ctx = 画布.getContext('2d');
+let 粒子 = [];
+let 动画ID = null;
+
+function 初始化粒子() {
+  粒子 = [];
+  for (let i = 0; i < 80; i++) {
+    粒子.push({
+      x: Math.random() * 画布.width,
+      y: Math.random() * 画布.height,
+      vx: (Math.random() - 0.5) * 0.5,
+      vy: (Math.random() - 0.5) * 0.5,
+      r: Math.random() * 2 + 0.5,
+      色: 当前偏势 === '获取' ? '#e94560' : 当前偏势 === '感受' ? '#00d4ff' : '#f5a623',
+    });
+  }
+}
+
+function 渲染画布() {
+  const w = 画布.width = 画布.offsetWidth;
+  const h = 画布.height = 画布.offsetHeight;
+  ctx.fillStyle = 'rgba(10,10,15,0.15)';
+  ctx.fillRect(0, 0, w, h);
+
+  // 偏势方向影响粒子运动
+  const 偏势力 = 当前偏势 === '获取' ? 1 : 当前偏势 === '感受' ? -0.5 : 0;
+
+  粒子.forEach((p, i) => {
+    p.x += p.vx + 偏势力 * 0.1;
+    p.y += p.vy;
+    if (p.x < 0 || p.x > w) p.vx *= -1;
+    if (p.y < 0 || p.y > h) p.vy *= -1;
+
+    // 感官影响渲染
+    if (当前感官 === '触觉') {
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fillStyle = p.色;
+      ctx.fill();
+    } else if (当前感官 === '视觉') {
+      const 颜色 = `hsl(${(p.x / w * 360 + Date.now() / 50) % 360}, 70%, 60%)`;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r * 1.5, 0, Math.PI * 2);
+      ctx.fillStyle = 颜色;
+      ctx.globalAlpha = 0.6;
+      ctx.fill();
+      ctx.globalAlpha = 1;
+    } else if (当前感官 === '听觉') {
+      const 波 = Math.sin(Date.now() / 200 + i) * 3;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r + Math.abs(波), 0, Math.PI * 2);
+      ctx.strokeStyle = p.色;
+      ctx.lineWidth = 0.5;
+      ctx.stroke();
+    } else if (当前感官 === '发生') {
+      if (Math.random() < 0.02) {
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, p.r * 4, 0, Math.PI * 2);
+        ctx.fillStyle = p.色;
+        ctx.globalAlpha = 0.1;
+        ctx.fill();
+        ctx.globalAlpha = 1;
+      }
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fillStyle = p.色;
+      ctx.fill();
+    } else if (当前感官 === '记忆') {
+      // 连线表示记忆关联
+      粒子.forEach((q, j) => {
+        if (j <= i) return;
+        const dx = p.x - q.x, dy = p.y - q.y;
+        const dist = Math.sqrt(dx*dx + dy*dy);
+        if (dist < 60) {
+          ctx.beginPath();
+          ctx.moveTo(p.x, p.y);
+          ctx.lineTo(q.x, q.y);
+          ctx.strokeStyle = p.色;
+          ctx.globalAlpha = (1 - dist/60) * 0.3;
+          ctx.lineWidth = 0.5;
+          ctx.stroke();
+          ctx.globalAlpha = 1;
+        }
+      });
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fillStyle = p.色;
+      ctx.fill();
+    }
+
+    // 自指环 — 粒子被中心吸引
+    const cx = w/2, cy = h/2;
+    const dx = cx - p.x, dy = cy - p.y;
+    const d = Math.sqrt(dx*dx + dy*dy);
+    if (d < 80) {
+      p.vx += dx/d * 0.02;
+      p.vy += dy/d * 0.02;
+    }
+  });
+
+  // 中心自指环
+  const cx = w/2, cy = h/2;
+  const t = Date.now() / 1000;
+  for (let r = 20; r <= 60; r += 20) {
+    ctx.beginPath();
+    ctx.arc(cx, cy, r + Math.sin(t + r/20) * 3, 0, Math.PI * 2);
+    ctx.strokeStyle = r === 20 ? '#f5a623' : r === 40 ? '#00d4ff' : '#e94560';
+    ctx.globalAlpha = 0.4;
+    ctx.lineWidth = 1;
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  动画ID = requestAnimationFrame(渲染画布);
+}
+
+// ===== 感官切换 =====
+function 切换感官(感官) {
+  当前感官 = 感官;
+  document.querySelectorAll('.感官卡片').forEach(c => c.classList.remove('活跃'));
+  document.querySelector(`[data-感官="${感官}"]`).classList.add('活跃');
+  添加记忆(`感官切换 → ${感官}`);
+
+  // 听觉触发声音
+  if (感官 === '听觉') 播放声音();
+  // 发生触发振动
+  if (感官 === '发生' && navigator.vibrate) navigator.vibrate(100);
+
+  提示(`感官: ${感官}`);
+}
+
+// ===== 偏势切换 =====
+function 切换偏势(偏势) {
+  当前偏势 = 偏势;
+  document.querySelectorAll('.偏势方向').forEach(d => d.classList.remove('选中'));
+  document.querySelector(`.偏势-${偏势}`).classList.add('选中');
+
+  // 更新粒子颜色
+  const 新色 = 偏势 === '获取' ? '#e94560' : 偏势 === '感受' ? '#00d4ff' : '#f5a623';
+  粒子.forEach(p => p.色 = 新色);
+
+  添加记忆(`偏势转变 → ${偏势}`);
+  提示(`偏势: ${偏势}`);
+}
+
+// ===== Web Audio =====
+let 音频上下文 = null;
+function 播放声音() {
+  if (!音频上下文) 音频上下文 = new (window.AudioContext || window.webkitAudioContext)();
+  const osc = 音频上下文.createOscillator();
+  const gain = 音频上下文.createGain();
+  osc.connect(gain);
+  gain.connect(音频上下文.destination);
+  osc.frequency.value = 当前偏势 === '获取' ? 220 : 当前偏势 === '感受' ? 440 : 880;
+  osc.type = 'sine';
+  gain.gain.setValueAtTime(0.1, 音频上下文.currentTime);
+  gain.gain.exponentialRampToValueAtTime(0.001, 音频上下文.currentTime + 1);
+  osc.start();
+  osc.stop(音频上下文.currentTime + 1);
+}
+
+// ===== 记忆系统 =====
+function 添加记忆(内容) {
+  const 时间 = new Date().toLocaleTimeString('zh-CN');
+  记忆数据.unshift({ 时间, 内容 });
+  if (记忆数据.length > 20) 记忆数据.pop();
+  localStorage.setItem('偏势记忆', JSON.stringify(记忆数据));
+  渲染记忆();
+}
+
+function 渲染记忆() {
+  document.getElementById('记忆列表').innerHTML = 记忆数据.map(m => `
+    <div class="记忆条目">
+      <span class="时间">${m.时间}</span>
+      <div class="内容">${m.内容}</div>
+    </div>
+  `).join('');
+}
+
+// ===== 生命形态渲染 =====
+function 渲染生命形态() {
+  document.getElementById('生命形态容器').innerHTML = 生命形态.map(l => `
+    <div class="生命卡片">
+      <div class="形态名">${l.名}</div>
+      <div class="形态描述">${l.描述}</div>
+      <div class="能级 能级-${l.能级}">${l.能级}</div>
+    </div>
+  `).join('');
+}
+
+// ===== 繁衍 =====
+function 渲染后代() {
+  document.getElementById('后代列表').innerHTML = 后代数据.map(d => `
+    <div class="后代">${d}</div>
+  `).join('');
+}
+
+// ===== 用户输入演化 =====
+function 演化() {
+  const 输入 = document.getElementById('演化输入').value.trim();
+  if (!输入) return;
+
+  演化历史.push(输入);
+  localStorage.setItem('演化历史', JSON.stringify(演化历史));
+
+  // 输入影响世界：生成新粒子
+  for (let i = 0; i < 5; i++) {
+    粒子.push({
+      x: Math.random() * 画布.width,
+      y: Math.random() * 画布.height,
+      vx: (Math.random() - 0.5) * 1,
+      vy: (Math.random() - 0.5) * 1,
+      r: Math.random() * 3 + 1,
+      色: 当前偏势 === '获取' ? '#e94560' : 当前偏势 === '感受' ? '#00d4ff' : '#f5a623',
+    });
+  }
+
+  // 繁衍：输入产生新后代
+  const 新后代 = `演化体-${输入.substring(0, 4)}-${后代数据.length + 1}`;
+  后代数据.push(新后代);
+  localStorage.setItem('偏势后代', JSON.stringify(后代数据));
+
+  // 记忆
+  添加记忆(`世界演化 ← "${输入}" → 诞生 ${新后代}`);
+
+  // 演化结果
+  document.getElementById('演化结果').innerHTML = `
+    <span style="color:var(--金);">输入 "${输入}" 注入世界</span><br>
+    <span style="color:var(--绿);">新生命形态诞生: ${新后代}</span><br>
+    <span style="color:var(--青);">粒子数: ${粒子.length} | 后代数: ${后代数据.length}</span>
+  `;
+
+  document.getElementById('演化输入').value = '';
+  渲染后代();
+
+  // 触觉反馈
+  if (navigator.vibrate) navigator.vibrate([50, 30, 50]);
+}
+
+// ===== 提示 =====
+function 提示(消息) {
+  const 框 = document.getElementById('提示框');
+  框.textContent = 消息;
+  框.style.display = 'block';
+  setTimeout(() => 框.style.display = 'none', 1500);
+}
+
+// ===== 初始化 =====
+初始化粒子();
+渲染画布();
+渲染生命形态();
+渲染记忆();
+渲染后代();
+添加记忆('偏势自觉体感知世界初始化');
+</script>
+</body>
+</html>
